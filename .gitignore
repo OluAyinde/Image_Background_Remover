@@ -1,0 +1,11 @@
+#Files to ignore
+
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+
+
+access.log
+db_config.txt
