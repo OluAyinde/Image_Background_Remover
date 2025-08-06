@@ -5,6 +5,7 @@ The following libraries need to be installed: `transparent-background`, `pillow`
 
 `Running the scripts:`
 Before running the script, edit the following lines:
+
 For `bkgrnd_rem.py`:
 - `Line 9`: output_folder - this is the path to the folder to save the processed images.
 - `Line 10`: input_csv - the path to the input `csv` file with name and image_url .
